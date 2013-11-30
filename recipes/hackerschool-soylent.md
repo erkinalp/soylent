@@ -16,15 +16,15 @@ Servings: 3
 
 ### Ingredients
 
-* 120 g oat flour
-* 85 g soy protein from Trader Joe's, unflavored (see blog post for substitutions)
-* 85 g olive oil
-* 75 g brown sugar
+* 150 g oat flour
+* 85 g soy protein
+* 88.75 g olive oil
+* 60 g brown sugar
 * 25 g ground flax
-* 20 g cocoa powder
+* 25 g cocoa powder
 * 15 g lecithin
-* up to 10 g potassium citrate or 20 g potassium gluconate, added gradually (1 g per batch)
-* 2 g iodized salt
+* 18.25 g potassium gluconate
+* 2.33 g iodized salt
 * 1 g Emergen-C
 * 1 Vitamin D supplement
 
