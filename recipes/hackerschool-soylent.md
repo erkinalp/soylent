@@ -1,6 +1,6 @@
 # Hackerschool Soylent
 
-_version: 1.0_
+_version: 1.1_
 
 ## Intro
 
