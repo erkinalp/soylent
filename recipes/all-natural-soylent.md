@@ -16,17 +16,17 @@ Servings: 3
 
 * 5 cups (about 1.2 liters) 1% milk, Vitamin D-fortified
 * 55 g coconut sugar
-* 45 g cocoa powder
-* 30 g chia seeds
-* 75 g raw sunflower seeds
+* 48 g cocoa powder
+* 27 g chia seeds
+* 77 g raw sunflower seeds
 * 50 g roasted hazelnuts
 * 25 g dry-roasted peanuts
 * 10 g dried spearmint
 * 5 g dried basil
 * 10 g soy lecithin
-* 3 g iodized salt
+* 2.4 g iodized salt
 * 1 g camu camu powder
-* 1 g paprika
+* 1.2 g paprika
 
 ### Method
 
