@@ -16,15 +16,15 @@ Servings: 3
 
 ### Ingredients
 
-* 150 g oat flour
-* 85 g soy protein
+* 160 g oat flour
+* 84 g soy protein
 * 88.75 g olive oil
 * 60 g brown sugar
 * 25 g ground flax
-* 25 g cocoa powder
+* 27 g cocoa powder
 * 15 g lecithin
-* 18.25 g potassium gluconate
-* 2.33 g iodized salt
+* 18.33 g potassium gluconate
+* 2.25 g iodized salt
 * 1 g Emergen-C
 * 1 Vitamin D supplement
 
